@@ -1,0 +1,127 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    font-size: 14px;
+}
+.v6_42 {
+    width: 677px;
+    height: 242px;
+    background: url("../images/v6_42.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    margin: 72px;
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+}
+.v6_43 {
+    width: 677px;
+    height: 114px;
+    background: url("../images/v6_43.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    margin: 4px;
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+}
+.v6_44 {
+    width: 677px;
+    color: url("../images/v6_44.png");
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-family: Cinzel;
+    font-weight: Bold;
+    font-size: 64px;
+    opacity: 1;
+    text-align: center;
+}
+.v6_45 {
+    width: 473px;
+    color: rgba(44,46,47,0.8999999761581421);
+    position: absolute;
+    top: 90px;
+    left: 102px;
+    font-family: Inter;
+    font-weight: Regular;
+    font-size: 20px;
+    opacity: 1;
+    text-align: center;
+}
+.v6_46 {
+    width: 409px;
+    height: 56px;
+    background: url("../images/v6_46.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    margin: 16px;
+    opacity: 1;
+    position: absolute;
+    top: 186px;
+    left: 134px;
+    overflow: hidden;
+}
+.v102_16 {
+    width: 191px;
+    height: 56px;
+    background: url("../images/v102_16.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    padding: 16px 32px;
+    margin: 8px;
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+}
+.v6_48 {
+    width: 127px;
+    color: rgba(21,23,24,1);
+    position: absolute;
+    top: 16px;
+    left: 32px;
+    font-family: Cinzel;
+    font-weight: Bold;
+    font-size: 20px;
+    opacity: 1;
+    text-align: center;
+}
+.v102_15 {
+    width: 202px;
+    height: 56px;
+    background: rgba(219,39,119,1);
+    padding: 16px 32px;
+    margin: 8px;
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 207px;
+    border-top-left-radius: 80px;
+    border-top-right-radius: 80px;
+    border-bottom-left-radius: 80px;
+    border-bottom-right-radius: 80px;
+    overflow: hidden;
+}
+.v6_47 {
+    width: 138px;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 16px;
+    left: 32px;
+    font-family: Cinzel;
+    font-weight: Bold;
+    font-size: 20px;
+    opacity: 1;
+    text-align: center;
+}
